@@ -1,0 +1,8 @@
+AIIMS_Hourly.csv: DateTime | NO2 | NOx | SO2 | PM10 | NH3 | Year | Location | Frequency
+AIIMS_Quarterly.csv: DateTime | NO2 | NOx | SO2 | PM10 | NH3 | Year | Location | Frequency
+Bhatagaon_Hourly.csv: DateTime | NO2 | NOx | SO2 | PM10 | NH3 | Year | Location | Frequency
+Bhatagaon_Quarterly.csv: DateTime | NO2 | NOx | SO2 | PM10 | PM2.5 | NH3 | Year | Location | Frequency
+IGKV_Hourly.csv: DateTime | NO | NO2 | NOx | SO2 | CO | NH3 | Year | Location | Frequency | PM10 | PM2.5
+IGKV_Quarterly.csv: DateTime | NO | NO2 | NOx | SO2 | CO | NH3 | Year | Location | Frequency | PM10 | PM2.5
+Siltara_Hourly.csv: DateTime | NO2 | NOx | SO2 | PM10 | NH3 | Year | Location | Frequency
+Siltara_Quarterly.csv: DateTime | NO2 | NOx | SO2 | PM10 | NH3 | Year | Location | Frequency

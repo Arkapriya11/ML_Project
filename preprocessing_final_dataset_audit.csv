@@ -1,0 +1,9 @@
+dataset,rows,columns,imputed_rows,rows_in_gaps_gt3,max_gap_len,remaining_missing_cells,duplicate_location_datetime
+AIIMS_Hourly.csv,990,14,158,139,43,363,0
+AIIMS_Quarterly.csv,3990,14,316,304,95,1235,0
+Bhatagaon_Hourly.csv,944,14,180,170,26,463,0
+Bhatagaon_Quarterly.csv,3895,14,891,879,190,2506,0
+IGKV_Hourly.csv,1001,14,132,119,24,232,0
+IGKV_Quarterly.csv,4095,14,460,456,96,1080,0
+Siltara_Hourly.csv,1709,14,517,499,190,665,0
+Siltara_Quarterly.csv,3040,14,769,741,285,1162,0

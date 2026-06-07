@@ -1,0 +1,5 @@
+Region,Frequency,Rows_Before_Preprocessing,Rows_After_Preprocessing,Rows_Change
+AIIMS,Hourly,1266,990,-276
+Bhatagaon,Hourly,990,944,-46
+IGKV,Hourly,1141,1001,-140
+Siltara,Hourly,2796,1709,-1087

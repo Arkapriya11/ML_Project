@@ -1,0 +1,2 @@
+total_excel_files_scanned,files_processed_ok,files_failed_or_skipped,files_missing_header,files_read_errors,rows_after_datetime_parse,missing_cells,rows_with_missing,invalid_negative,invalid_gt500,duplicate_timestamps,irregular_gaps,final_imputed_rows,final_rows_in_gaps_gt3,final_remaining_missing_cells
+458,430,28,1,1,25013,11275,4601,15,101,0,1158,3423,3307,7706

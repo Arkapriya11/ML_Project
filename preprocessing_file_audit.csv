@@ -1,0 +1,459 @@
+file,location,frequency,status,error,header_found,rows_after_datetime_parse,mapped_columns_count,missing_cells,rows_with_missing,invalid_negative,invalid_gt500,duplicate_timestamps,irregular_gaps
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2022\aug 2022\DCR AIIMS _ QUAT - AUGUST-2022.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2022\Decm 2022\DCR AIIMS_RAIPUR _ QUAT - DEC-2022.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,1.0,1.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2022\Decm 2022\DCR AIIMS_RAIPUR_ Hourly - DEC-2022.xls,AIIMS,Hourly,ok,,True,23.0,12.0,5.0,4.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2022\july 2022\DCR AIIMS RAIPUR QUARTER HOURLY ON JULY 2022.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2022\july 2022\DCR AIIMS_RAIPUR_ Hourly - July-2021.xls,AIIMS,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2022\Nov 2022\DCR AIIMS_RAIPUR _ QUAT - NOV-2022.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,8.0,5.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2022\Nov 2022\DCR AIIMS_RAIPUR_ Hourly - NOV-2022.xls,AIIMS,Hourly,ok,,True,23.0,12.0,4.0,3.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2022\oct 2022\DCR AIIMS_RAIPUR _ QUAT - octo-2022.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,8.0,4.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2022\oct 2022\DCR AIIMS_RAIPUR_ Hourly - octo-2022.xls,AIIMS,Hourly,ok,,True,23.0,12.0,2.0,1.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2022\sept 2022\DCR AIIMS_RAIPUR _ QUAT - sept-2022.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2022\sept 2022\DCR AIIMS_RAIPUR_ Hourly - SEPT-2021.xls,AIIMS,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\april-23\DCR AIIMS_RAIPUR _ QUAT - APR -2023.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,44.0,7.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\april-23\DCR AIIMS_RAIPUR_ Hourly - APR-2023.xls,AIIMS,Hourly,ok,,True,23.0,12.0,1.0,1.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\april-23\april-23\DCR AIIMS_RAIPUR _ QUAT - APR -2023.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,44.0,7.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\april-23\april-23\DCR AIIMS_RAIPUR_ Hourly - APR-2023.xls,AIIMS,Hourly,ok,,True,23.0,12.0,1.0,1.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\april-23\aug-23\DCR AIIMS_RAIPUR _ QUAT  -2023.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\april-23\aug-23\DCR AIIMS_RAIPUR_ Hourly -AUG-2023.xls,AIIMS,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\april-23\Decm 23\DCR AIIMS_RAIPUR _ Hourly - DECM -2023 (2).xls,AIIMS,Hourly,ok,,True,23.0,12.0,23.0,23.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\april-23\Decm 23\DCR AIIMS_RAIPUR _ QUAT - DECM-2023.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,52.0,52.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\april-23\feb-23\DCR AIIMS_RAIPUR _ QUAT - FEB -2023.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\april-23\feb-23\DCR AIIMS_RAIPUR_ Hourly - FEB-2023.xls,AIIMS,Hourly,ok,,True,23.0,12.0,7.0,5.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\april-23\jan-23\DCR AIIMS_RAIPUR _ QUAT - JAN -2023.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\april-23\jan-23\DCR AIIMS_RAIPUR_ Hourly - JAN-2023.xls,AIIMS,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\april-23\july 23\DCR AIIMS_RAIPUR _ QUAT - JULY-2023.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\april-23\july 23\DCR AIIMS_RAIPUR_ Hourly - July-2023.xls,AIIMS,Hourly,ok,,True,23.0,12.0,1.0,1.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\april-23\JUNE 2023\DCR AIIMS_RAIPUR _ QUAT - JUNE -2023.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,2.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\april-23\JUNE 2023\DCR AIIMS_RAIPUR_ Hourly -JUNE-2023.xls,AIIMS,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,2.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\april-23\mar-23\DCR AIIMS_RAIPUR _ QUAT - MAR -2023.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,83.0,19.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\april-23\mar-23\DCR AIIMS_RAIPUR_ Hourly - MAR-2023.xls,AIIMS,Hourly,ok,,True,23.0,12.0,19.0,6.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\april-23\may-23\DCR AIIMS_RAIPUR _ QUAT - MAY -2023.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\april-23\may-23\DCR AIIMS_RAIPUR_ Hourly - MAY-2023.xls,AIIMS,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\april-23\Nov-23\DCR AIIMS_RAIPUR _ QUAT - Nov -2023.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\april-23\Nov-23\DCR AIIMS_RAIPUR_ Hourly - Nov-2023.xls,AIIMS,Hourly,ok,,True,23.0,12.0,2.0,1.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\april-23\Octo-23\DCR AIIMS_RAIPUR _ QUAT - Octo -2023.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\april-23\Octo-23\DCR AIIMS_RAIPUR_ Hourly - Octo-2023.xls,AIIMS,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\april-23\sept-23\DCR AIIMS_RAIPUR _ QUAT - Sept-2023.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\april-23\sept-23\DCR AIIMS_RAIPUR_ Hourly - Sept-2023.xls,AIIMS,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\AUG-23\DCR AIIMS_RAIPUR _ QUAT  -2023.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\AUG-23\DCR AIIMS_RAIPUR_ Hourly -AUG-2023.xls,AIIMS,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\Decm 23\DCR AIIMS_RAIPUR _ Hourly - DECM -2023 (2).xls,AIIMS,Hourly,ok,,True,23.0,12.0,23.0,23.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\Decm 23\DCR AIIMS_RAIPUR _ QUAT - DECM-2023.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,52.0,52.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\feb-23\DCR AIIMS_RAIPUR _ QUAT - FEB -2023.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\feb-23\DCR AIIMS_RAIPUR_ Hourly - FEB-2023.xls,AIIMS,Hourly,ok,,True,23.0,12.0,7.0,5.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\jan-23\DCR AIIMS_RAIPUR _ QUAT - JAN -2023.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\jan-23\DCR AIIMS_RAIPUR_ Hourly - JAN-2023.xls,AIIMS,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\july 23\DCR AIIMS_RAIPUR _ QUAT - JULY-2023.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\july 23\DCR AIIMS_RAIPUR_ Hourly - July-2023.xls,AIIMS,Hourly,ok,,True,23.0,12.0,1.0,1.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\JUNE 2023\DCR AIIMS_RAIPUR _ QUAT - JUNE -2023.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,2.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\JUNE 2023\DCR AIIMS_RAIPUR_ Hourly -JUNE-2023.xls,AIIMS,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,2.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\mar-23\DCR AIIMS_RAIPUR _ QUAT - MAR -2023.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,83.0,19.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\mar-23\DCR AIIMS_RAIPUR_ Hourly - MAR-2023.xls,AIIMS,Hourly,ok,,True,23.0,12.0,19.0,6.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\may-23\DCR AIIMS_RAIPUR _ QUAT - MAY -2023.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\may-23\DCR AIIMS_RAIPUR_ Hourly - MAY-2023.xls,AIIMS,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\Nov-23\DCR AIIMS_RAIPUR _ QUAT - Nov -2023.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\Nov-23\DCR AIIMS_RAIPUR_ Hourly - Nov-2023.xls,AIIMS,Hourly,ok,,True,23.0,12.0,2.0,1.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\Octo-23\DCR AIIMS_RAIPUR _ QUAT - Octo -2023.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\Octo-23\DCR AIIMS_RAIPUR_ Hourly - Octo-2023.xls,AIIMS,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\sept-23\DCR AIIMS_RAIPUR _ QUAT - Sept-2023.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2023\sept-23\DCR AIIMS_RAIPUR_ Hourly - Sept-2023.xls,AIIMS,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2024\Apr -24\DCR AIIMS_RAIPUR _ QUAT - APR -2024.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2024\Apr -24\DCR AIIMS_RAIPUR_ Hourly - APR-2024.xls,AIIMS,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2024\Aug-24\DCR AIIMS_RAIPUR _ QUAT - AUG -2024.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2024\Aug-24\DCR AIIMS_RAIPUR_ Hourly - AUG-2024.xls,AIIMS,Hourly,ok,,True,23.0,12.0,60.0,20.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2024\Dec-24\DCR AIIMS_RAIPUR _ QUAT - DEC -2024.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2024\Dec-24\DCR AIIMS_RAIPUR_ Hourly - DEC-2024.xls,AIIMS,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2024\Feb-24\DCR AIIMS_RAIPUR _ QUAT - FEB -2024.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,6.0,3.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2024\Feb-24\DCR AIIMS_RAIPUR_ Hourly - FEB-2024.xls,AIIMS,Hourly,ok,,True,23.0,12.0,29.0,23.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2024\Jan-24\DCR AIIMS_RAIPUR _ QUAT - JAN -2024.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2024\Jan-24\DCR AIIMS_RAIPUR_ Hourly - JAN-2024.xls,AIIMS,Hourly,ok,,True,23.0,12.0,2.0,1.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2024\Jul - 24\DCR AIIMS_RAIPUR _ HOUR - JUL -2024.xls,AIIMS,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2024\Jul - 24\DCR AIIMS_RAIPUR _ QUAT - JUL-2024.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2024\Jun- 24\DCR AIIMS_RAIPUR _ QUAT - JUN -2024.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2024\Jun- 24\DCR AIIMS_RAIPUR_ Hourly - JUN-2024.xls,AIIMS,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2024\Mar-24\DCR AIIMS_RAIPUR _ QUAT - MAR -2024.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,15.0,5.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2024\Mar-24\DCR AIIMS_RAIPUR_ Hourly - MAR-2024.xls,AIIMS,Hourly,ok,,True,23.0,12.0,44.0,14.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2024\May- 24\DCR AIIMS_RAIPUR _ QUAT - MAY -2024.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2024\May- 24\DCR AIIMS_RAIPUR_ Hourly - MAY-2024.xls,AIIMS,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2024\Nov -24\DCR AIIMS_RAIPUR _ QUAT - NOV -2024.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,96.0,12.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2024\Nov -24\DCR AIIMS_RAIPUR_ Hourly - NOV-2024.xls,AIIMS,Hourly,ok,,True,23.0,12.0,36.0,9.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2024\Oct-24\DCR AIIMS_RAIPUR _ QUAT - OCT-2024.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2024\Oct-24\DCR AIIMS_RAIPUR_ Hourly - Oct-2024.xls,AIIMS,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2024\Sep -24\DCR AIIMS_RAIPUR _ QUAT - SEP-2024.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,285.0,95.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2024\Sep -24\DCR AIIMS_RAIPUR_ Hourly - SEP-2024.xls,AIIMS,Hourly,ok,,True,23.0,12.0,69.0,23.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2025\Apr -25\DCR AIIMS_RAIPUR _ QUAT - APR-2025.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2025\Apr -25\DCR AIIMS_RAIPUR_ Hourly - APR 2025.xls,AIIMS,Hourly,ok,,True,24.0,12.0,0.0,0.0,0.0,0.0,0.0,1.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2025\Aug-25\DCR AIIMS_RAIPUR _ QUAT - AUG-2025.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2025\Aug-25\DCR AIIMS_RAIPUR_ Hourly - AUG-2025.xls,AIIMS,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2025\Dec. 2025\DCR AIIMS_RAIPUR _ QUAT -Dec. 2025.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,6.0,3.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2025\Dec. 2025\DCR AIIMS_RAIPUR_ Hourly Dec. 2025.xls,AIIMS,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2025\Feb-25\DCR AIIMS_RAIPUR _ QUAT -Feb -2025.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2025\Feb-25\DCR AIIMS_RAIPUR_ Hourly - Feb-2025.xls,AIIMS,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2025\Jan-25\DCR AIIMS_RAIPUR _ QUAT -JAN -2025.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,760.0,95.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2025\Jan-25\DCR AIIMS_RAIPUR_ Hourly - JAN-2025.xls,AIIMS,Hourly,ok,,True,23.0,12.0,184.0,23.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2025\jul-25\DCR AIIMS_RAIPUR _ QUAT - JUL-2025.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2025\jul-25\DCR AIIMS_RAIPUR_ Hourly - JUL-2025.xls,AIIMS,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2025\jun-25\DCR AIIMS_RAIPUR _ QUAT -JUNE-2025.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2025\jun-25\DCR AIIMS_RAIPUR_ Hourly -JUNE-2025.xls,AIIMS,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2025\Mar-25\DCR AIIMS_RAIPUR _ QUAT - MAR -2025.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2025\Mar-25\DCR AIIMS_RAIPUR_ Hourly - MAR-2025.xls,AIIMS,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2025\May-25\DCR AIIMS_RAIPUR _ QUAT - MAY-2025.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,3.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2025\May-25\DCR AIIMS_RAIPUR_ Hourly - MAY 2025.xls,AIIMS,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2025\Nov-25\DCR AIIMS_RAIPUR _ QUAT - Nov. -2025.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2025\Nov-25\DCR AIIMS_RAIPUR_ Hourly -Nov 2025.xls,AIIMS,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2025\Oct-25\DCR AIIMS_RAIPUR _ QUAT - Oct. -2025.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2025\Oct-25\DCR AIIMS_RAIPUR_ Hourly -Oct. 2025-2023.xls,AIIMS,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2025\SEP- 25\DCR AIIMS_RAIPUR _ QUAT - SEP 2025.xls,AIIMS,Quarterly,ok,,True,95.0,12.0,18.0,15.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2025\SEP- 25\DCR AIIMS_RAIPUR_ Hourly -SEP 2025.xls,AIIMS,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2026\Fab- 2026\Hourly - Fab.-2026.xls,AIIMS,Hourly,clean_failed,clean_file_none,True,,,,,,,,
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2026\Fab- 2026\QUAT - Fab. 2026.xls,AIIMS,Quarterly,clean_failed,clean_file_none,True,,,,,,,,
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2026\Jan. 2026\Hourly - Jan.-2026.xls,AIIMS,Hourly,clean_failed,clean_file_none,True,,,,,,,,
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2026\Jan. 2026\QUAT - Jan. 2026.xls,AIIMS,Quarterly,clean_failed,clean_file_none,True,,,,,,,,
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\Blank dcr formate\DCR AIIMS_RAIPUR _ QUAT - NOV-2022.xls,AIIMS,Quarterly,clean_failed,clean_file_none,True,,,,,,,,
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\Blank dcr formate\DCR AIIMS_RAIPUR_ Hourly - NOV-2021.xls,AIIMS,Hourly,clean_failed,clean_file_none,True,,,,,,,,
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2022\aug 2022\DCR of AIIMS_ Hourly - AUGUST-2022.xlsb,AIIMS,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2022\june 2022\DCR AIIMS_RAIPUR _ QUAT HOURLY till date on  June-2022.xlsb,AIIMS,Quarterly,clean_failed,clean_file_none,True,,,,,,,,
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\DCR AIIMS\2022\june 2022\DCR OF AIIMS Raipur hourly on  june 2022.xlsb,AIIMS,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,1.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2022\august 2022\DCR SILTARA_RAIPUR _ QUAT - AUGUST-2022 - Copy (2).xls,Siltara,Quarterly,ok,,True,95.0,12.0,44.0,44.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2022\august 2022\DCR SILTARA_RAIPUR_ Hourly - AUGUST-2022.xls,Siltara,Hourly,ok,,True,23.0,12.0,0.0,0.0,10.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2022\Decm2022\DCR SILTARA_RAIPUR _ QUAT -DCM.2022.xls,Siltara,Quarterly,ok,,True,95.0,12.0,16.0,8.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2022\july 2022\DCR SILTARA_RAIPUR _ QUAT - JuLY-2021 - Copy.xls,Siltara,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2022\Nov 2022\DCR SILTARA_RAIPUR _ QUAT -NOV.2022.xls,Siltara,Quarterly,ok,,True,95.0,12.0,57.0,49.0,0.0,13.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2022\Octo 2022\DCR SILTARA_RAIPUR _ QUAT - Oct.-2022.xls,Siltara,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,6.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2022\Sept 2022\DCR SILTARA_RAIPUR _ QUAT - SEPTEMBER-2022.xls,Siltara,Quarterly,ok,,True,95.0,12.0,23.0,20.0,0.0,14.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2023\AGUST 2023\DCR SILTARA _ QUAT -APRIL-2023 - Copy.xls,Siltara,Quarterly,ok,,True,95.0,12.0,109.0,95.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2023\APRIL DCR 2023\DCR SILTARA _ QUAT -APRIL-2023 - Copy.xls,Siltara,Quarterly,ok,,True,95.0,12.0,6.0,3.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2023\DCR NOV. 2023\DCR SILTARA _ QUAT -NOV.-2023 - Copy.xls,Siltara,Quarterly,ok,,True,95.0,12.0,190.0,39.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2023\Dec. 2023\DECEMBER\DCR SILTARA _ QUAT -DEC.-2023 - Copy.xls,Siltara,Quarterly,ok,,True,95.0,12.0,6.0,3.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2023\FEB 2023\DCR SILTARA _ QUAT -FAB.-2023.xls,Siltara,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2023\JAN 2023\DCR SILTARA _ QUAT -JAN.-2023.xls,Siltara,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2023\JULY2023\DCR SILTARA _ QUAT -JULY-2023 - Copy.xls,Siltara,Quarterly,ok,,True,95.0,12.0,95.0,95.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2023\june2023\DCR SILTARA _ QUAT -june-2023.xls,Siltara,Quarterly,ok,,True,95.0,12.0,95.0,95.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2023\March 2023\DCR SILTARA _ QUAT -March-2023.xls,Siltara,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2023\May2023\DCR SILTARA _ QUAT -may-2023 - Copy.xls,Siltara,Quarterly,ok,,True,95.0,12.0,40.0,20.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2023\Octo 2023\DCR SILTARA _ QUAT -Octo-2023 - Copy.xls,Siltara,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2023\SEP. 2023\DCR SILTARA _ QUAT -Sept-2023 - Copy.xls,Siltara,Quarterly,ok,,True,95.0,12.0,40.0,21.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2024\AUGUST DCR 2024\DCR SILTARA _ QUAT -august-2024 - Copy.xls,Siltara,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2024\DCR APRIL. 2024\DCR SILTARA _ QUAT -APRIL-2024.xls,Siltara,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2024\DCR Dec. 2024\DCR SILTARA _ QUAT -Dce.-2024.xls,Siltara,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2024\DCR feb. 2024\DCR SILTARA _ QUAT -FEB-2024 - Copy.xls,Siltara,Quarterly,ok,,True,95.0,12.0,64.0,32.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2024\DCR JUNE 2024\DCR SILTARA _ QUAT -JUNE-2024.xls,Siltara,Quarterly,ok,,True,95.0,12.0,38.0,13.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2024\DCR OCT. 2024\DCR SILTARA _ QUAT -OCT. 2024.xls,Siltara,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2024\DCR SEP. 2024\DCR SILTARA _ QUAT -sep.-2024.xls,Siltara,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2024\Jan-24\DCR SILTARA (Raipur)_ QUAT -Jan-2024.xls,Siltara,Quarterly,ok,,True,95.0,12.0,116.0,58.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2024\JUL -24\DCR SILTARA _ QUAT -JUL-2024.xls,Siltara,Quarterly,ok,,True,95.0,12.0,95.0,95.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2024\March - 2024\DCR SILTARA _ QUAT -Mar-2024 - Copy.xls,Siltara,Quarterly,ok,,True,95.0,12.0,247.0,34.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2024\MAY DCR 2024\DCR SILTARA (RAIPUR)_QUA. Hourly MAY.xls,Siltara,Hourly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,94.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2024\NOV -24\DCR SILTARA _ QUAT -NOV-2024.xls,Siltara,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2025\April DCR 2025\DCR SILTARA _ QUAT -APRIL-2025.xls,Siltara,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,1.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2025\AUGUST 2025\SAMPLE DCR QUA. HOURLY.xls,Siltara,Hourly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,94.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2025\Dec. 2025\SAMPLE DCR QUA. HOURLY.xls,Siltara,Hourly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,94.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2025\FEB.DCR 2025\DCR SILTARA (RAIPUR)qua._ Hourly Fab 2025.xls,Siltara,Hourly,ok,,True,95.0,12.0,40.0,40.0,0.0,0.0,0.0,94.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2025\JAN DCR 2025\DCR SILTARA _ QUAT -JANUARY-2025.xls,Siltara,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,3.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2025\JULY DCR 2025\SAMPLE DCR QUA. HOURLY.xls,Siltara,Hourly,ok,,True,95.0,12.0,212.0,48.0,0.0,0.0,0.0,94.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2025\JUN DCR -25\SAMPLE DCR QUA. HOURLY.xls,Siltara,Hourly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,94.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2025\MAR DCR 2025\DCR SILTARA _ QUAT -MARCH-2025.xls,Siltara,Quarterly,ok,,True,95.0,12.0,87.0,45.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2025\MAY DCR 2025\SAMPLE DCR QUA. HOURLY.xls,Siltara,Hourly,ok,,True,95.0,12.0,101.0,20.0,0.0,0.0,0.0,94.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2025\NOV DCR 25\SAMPLE DCR QUA. HOURLY.xls,Siltara,Hourly,ok,,True,95.0,12.0,95.0,95.0,0.0,0.0,0.0,94.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2025\Oct. 2025\Octuber QUA. HOURLY.xls,Siltara,Hourly,ok,,True,95.0,12.0,295.0,95.0,0.0,0.0,0.0,94.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2025\SEP. 2025\SAMPLE DCR QUA. HOURLY SEP. 2025.xls,Siltara,Hourly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,94.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2026\Jan. 2026\QUA. HOURLY.xls,Siltara,Hourly,clean_failed,clean_file_none,True,,,,,,,,
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2022\Octo 2022\DCR SILTARA_RAIPUR _ QUAT - Oct.-2022.xls,Siltara,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,6.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2022\Sept 2022\DCR SILTARA_RAIPUR _ QUAT - SEPTEMBER-2022.xls,Siltara,Quarterly,ok,,True,95.0,12.0,23.0,20.0,0.0,14.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2023\AGUST 2023\DCR SILTARA _ QUAT -APRIL-2023 - Copy.xls,Siltara,Quarterly,ok,,True,95.0,12.0,109.0,95.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2023\APRIL DCR 2023\DCR SILTARA _ QUAT -APRIL-2023 - Copy.xls,Siltara,Quarterly,ok,,True,95.0,12.0,6.0,3.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2023\DCR NOV. 2023\DCR SILTARA _ QUAT -NOV.-2023 - Copy.xls,Siltara,Quarterly,ok,,True,95.0,12.0,190.0,39.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2023\FEB 2023\DCR SILTARA _ QUAT -FAB.-2023.xls,Siltara,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2023\JAN 2023\DCR SILTARA _ QUAT -JAN.-2023.xls,Siltara,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2023\JULY2023\DCR SILTARA _ QUAT -JULY-2023 - Copy.xls,Siltara,Quarterly,ok,,True,95.0,12.0,95.0,95.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2023\june2023\DCR SILTARA _ QUAT -june-2023.xls,Siltara,Quarterly,ok,,True,95.0,12.0,95.0,95.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2023\March 2023\DCR SILTARA _ QUAT -March-2023.xls,Siltara,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2023\May2023\DCR SILTARA _ QUAT -may-2023 - Copy.xls,Siltara,Quarterly,ok,,True,95.0,12.0,40.0,20.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2023\Octo 2023\DCR SILTARA _ QUAT -Octo-2023 - Copy.xls,Siltara,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2023\SEP. 2023\DCR SILTARA _ QUAT -Sept-2023 - Copy.xls,Siltara,Quarterly,ok,,True,95.0,12.0,40.0,21.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2024\AUGUST DCR 2024\DCR SILTARA _ QUAT -august-2024 - Copy.xls,Siltara,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2024\DCR APRIL. 2024\DCR SILTARA _ QUAT -APRIL-2024.xls,Siltara,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2024\DCR Dec. 2024\DCR SILTARA _ QUAT -Dce.-2024.xls,Siltara,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2024\DCR feb. 2024\DCR SILTARA _ QUAT -FEB-2024 - Copy.xls,Siltara,Quarterly,ok,,True,95.0,12.0,64.0,32.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2024\DCR JUNE 2024\DCR SILTARA _ QUAT -JUNE-2024.xls,Siltara,Quarterly,ok,,True,95.0,12.0,38.0,13.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2024\DCR OCT. 2024\DCR SILTARA _ QUAT -OCT. 2024.xls,Siltara,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2024\DCR SEP. 2024\DCR SILTARA _ QUAT -sep.-2024.xls,Siltara,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2024\Jan-24\DCR SILTARA (Raipur)_ QUAT -Jan-2024.xls,Siltara,Quarterly,ok,,True,95.0,12.0,116.0,58.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2024\JUL -24\DCR SILTARA _ QUAT -JUL-2024.xls,Siltara,Quarterly,ok,,True,95.0,12.0,95.0,95.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2024\March - 2024\DCR SILTARA _ QUAT -Mar-2024 - Copy.xls,Siltara,Quarterly,ok,,True,95.0,12.0,247.0,34.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2024\MAY DCR 2024\DCR SILTARA (RAIPUR)_QUA. Hourly MAY.xls,Siltara,Hourly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,94.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2024\NOV -24\DCR SILTARA _ QUAT -NOV-2024.xls,Siltara,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2025\April DCR 2025\DCR SILTARA _ QUAT -APRIL-2025.xls,Siltara,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,1.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2025\FEB.DCR 2025\DCR SILTARA (RAIPUR)qua._ Hourly Fab 2025.xls,Siltara,Hourly,ok,,True,95.0,12.0,40.0,40.0,0.0,0.0,0.0,94.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2025\JAN DCR 2025\DCR SILTARA _ QUAT -JANUARY-2025.xls,Siltara,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,3.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2025\JUN DCR -25\SAMPLE DCR QUA. HOURLY.xls,Siltara,Hourly,clean_failed,clean_file_none,True,,,,,,,,
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2025\MAR DCR 2025\DCR SILTARA _ QUAT -MARCH-2025.xls,Siltara,Quarterly,ok,,True,95.0,12.0,87.0,45.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2025\MAY DCR 2025\SAMPLE DCR QUA. HOURLY.xls,Siltara,Hourly,clean_failed,clean_file_none,True,,,,,,,,
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\sampale DCR file\SAMPLE DCR QUA. HOURLY.xls,Siltara,Hourly,clean_failed,clean_file_none,True,,,,,,,,
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\sampale DCR file\SAMPLE DCR QUA. HOURLY.xls,Siltara,Hourly,clean_failed,clean_file_none,True,,,,,,,,
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2022\Decm2022\DCR SILTARA_RAIPUR_ Hourly  DCM.2022.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,2.0,2.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2022\july 2022\DCR SILTARA_RAIPUR_ Hourly till date on  - JuLY-2022 - Copy.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2022\June 2022\DCR SILTARA_RAIPUR _ QUAT -30 June-2022.xlsb,Siltara,Quarterly,clean_failed,clean_file_none,True,,,,,,,,
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2022\June 2022\DCR SILTARA_RAIPUR_ Hourly -30 June-2022.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,23.0,23.0,0.0,16.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2022\Nov 2022\DCR SILTARA_RAIPUR_ Hourly  NOV.2022.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,12.0,11.0,0.0,5.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2022\Octo 2022\DCR SILTARA_ Hourly - Oct.-2022.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,3.0,3.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2022\Sept 2022\DCR SILTARA_ Hourly - SEPTEMBER-2022.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,1.0,1.0,0.0,4.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2023\AGUST 2023\DCR SILTARA (RAIPUR)_ Hourly Oct.-2023.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,27.0,23.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2023\APRIL DCR 2023\DCR SILTARA (RAIPUR)_ Hourly Oct.-2023.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,8.0,4.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2023\DCR NOV. 2023\DCR SILTARA (RAIPUR)_ Hourly Oct.-2023.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,52.0,14.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2023\Dec. 2023\DECEMBER\DCR SILTARA (RAIPUR)_ Hourly Oct.-2023.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,9.0,3.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2023\FEB 2023\DCR SILTARA (RAIPUR)_ Hourly FAB..-2023.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,6.0,3.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2023\JAN 2023\DCR SILTARA (RAIPUR)_ Hourly JAN..-2023.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2023\JULY2023\DCR SILTARA (RAIPUR)_ Hourly  JULY-2023.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,23.0,23.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2023\june2023\DCR SILTARA (RAIPUR)_ Hourly june.-2023.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,23.0,23.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2023\March 2023\DCR SILTARA (RAIPUR)_ Hourly March.-2023.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,6.0,3.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2023\May2023\DCR SILTARA (RAIPUR)_ Hourly may.-2023.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,15.0,13.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2023\Octo 2023\DCR SILTARA (RAIPUR)_ Hourly Oct.-2023.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2023\SEP. 2023\DCR SILTARA (RAIPUR)_ Hourly Sept.-2023.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,26.0,13.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2024\AUGUST DCR 2024\DCR SILTARA (RAIPUR)_ H august..-2024.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2024\DCR APRIL. 2024\DCR SILTARA (RAIPUR)_ Hourly april.-2024.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2024\DCR Dec. 2024\DCR SILTARA (RAIPUR)_ Hourly Dec..-2024.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2024\DCR feb. 2024\DCR SILTARA _ HOURLY -FEB-2024 - Copy.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2024\DCR JUNE 2024\DCR SILTARA (RAIPUR)_ Hourly JUNE.-2024.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2024\DCR OCT. 2024\DCR SILTARA (RAIPUR)_ Hourly Oct.-2024.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2024\DCR SEP. 2024\DCR SILTARA (RAIPUR)_ Hourly sep..-2024.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2024\Jan-24\DCR SILTARA (RAIPUR)_ Hourly  jan.-2024.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,79.0,18.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2024\JUL -24\DCR SILTARA (RAIPUR)_ Hourly JUL-2024.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,23.0,23.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2024\March - 2024\DCR SILTARA (RAIPUR)_ Hourly Mar.-2024.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,58.0,8.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2024\MAY DCR 2024\DCR SILTARA (RAIPUR)_ Hourly MAY.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2024\NOV -24\DCR SILTARA (RAIPUR)_ Hourly NOV.-2024.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2025\April DCR 2025\SILTARA (RAIPUR) Hourly APRIL.-2025.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2025\AUGUST 2025\DCR SILTARA (RAIPUR)_ Hourly.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2025\Dec. 2025\DCR SILTARA (RAIPUR)_ Hourly.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2025\FEB.DCR 2025\DCR SILTARA (RAIPUR)  Hourly Fab 2025.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,18.0,16.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2025\JAN DCR 2025\DCR SILTARA (RAIPUR)_ Hourly JANUARY-2025.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2025\JULY DCR 2025\SILTARA RAIPUR Hourly JULY.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,11.0,11.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2025\JUN DCR -25\DCR SILTARA  Hourly JUNE.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2025\MAR DCR 2025\DCR SILTARA (RAIPUR)_ Hourly MARCH.-2025.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,14.0,8.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2025\MAY DCR 2025\DCR SILTARA (RAIPUR)_ Hourly.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2025\NOV DCR 25\DCR SILTARA (RAIPUR)_ Hourly.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,23.0,23.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2025\Oct. 2025\Octuber Hourly.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,8.0,1.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2025\SEP. 2025\DCR SILTARA (RAIPUR)_ Hourly SEP. 2025.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\2026\Jan. 2026\Hourly.xlsb,Siltara,Hourly,clean_failed,clean_file_none,True,,,,,,,,
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2022\Octo 2022\DCR SILTARA_ Hourly - Oct.-2022.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,3.0,3.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2022\Sept 2022\DCR SILTARA_ Hourly - SEPTEMBER-2022.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,1.0,1.0,0.0,4.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2023\AGUST 2023\DCR SILTARA (RAIPUR)_ Hourly Oct.-2023.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,27.0,23.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2023\APRIL DCR 2023\DCR SILTARA (RAIPUR)_ Hourly Oct.-2023.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,8.0,4.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2023\DCR NOV. 2023\DCR SILTARA (RAIPUR)_ Hourly Oct.-2023.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,52.0,14.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2023\FEB 2023\DCR SILTARA (RAIPUR)_ Hourly FAB..-2023.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,6.0,3.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2023\JAN 2023\DCR SILTARA (RAIPUR)_ Hourly JAN..-2023.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2023\JULY2023\DCR SILTARA (RAIPUR)_ Hourly  JULY-2023.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,23.0,23.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2023\june2023\DCR SILTARA (RAIPUR)_ Hourly june.-2023.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,23.0,23.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2023\March 2023\DCR SILTARA (RAIPUR)_ Hourly March.-2023.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,6.0,3.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2023\May2023\DCR SILTARA (RAIPUR)_ Hourly may.-2023.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,15.0,13.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2023\Octo 2023\DCR SILTARA (RAIPUR)_ Hourly Oct.-2023.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2023\SEP. 2023\DCR SILTARA (RAIPUR)_ Hourly Sept.-2023.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,26.0,13.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2024\AUGUST DCR 2024\DCR SILTARA (RAIPUR)_ H august..-2024.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2024\DCR APRIL. 2024\DCR SILTARA (RAIPUR)_ Hourly april.-2024.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2024\DCR Dec. 2024\DCR SILTARA (RAIPUR)_ Hourly Dec..-2024.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2024\DCR feb. 2024\DCR SILTARA _ HOURLY -FEB-2024 - Copy.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2024\DCR JUNE 2024\DCR SILTARA (RAIPUR)_ Hourly JUNE.-2024.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2024\DCR OCT. 2024\DCR SILTARA (RAIPUR)_ Hourly Oct.-2024.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2024\DCR SEP. 2024\DCR SILTARA (RAIPUR)_ Hourly sep..-2024.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2024\Jan-24\DCR SILTARA (RAIPUR)_ Hourly  jan.-2024.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,79.0,18.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2024\JUL -24\DCR SILTARA (RAIPUR)_ Hourly JUL-2024.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,23.0,23.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2024\March - 2024\DCR SILTARA (RAIPUR)_ Hourly Mar.-2024.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,58.0,8.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2024\MAY DCR 2024\DCR SILTARA (RAIPUR)_ Hourly MAY.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2024\NOV -24\DCR SILTARA (RAIPUR)_ Hourly NOV.-2024.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2025\April DCR 2025\DCR SILTARA (RAIPUR)_ Hourly APRIL.-2025.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2025\FEB.DCR 2025\DCR SILTARA (RAIPUR)  Hourly Fab 2025.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,18.0,16.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2025\JAN DCR 2025\DCR SILTARA (RAIPUR)_ Hourly JANUARY-2025.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2025\JUN DCR -25\DCR SILTARA (RAIPUR)_ Hourly.xlsb,Siltara,Hourly,clean_failed,clean_file_none,True,,,,,,,,
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2025\MAR DCR 2025\DCR SILTARA (RAIPUR)_ Hourly MARCH.-2025.xlsb,Siltara,Hourly,ok,,True,23.0,12.0,14.0,8.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\2025\MAY DCR 2025\DCR SILTARA (RAIPUR)_ Hourly.xlsb,Siltara,Hourly,clean_failed,clean_file_none,True,,,,,,,,
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\CECB MONTHLY DCR - Copy\sampale DCR file\DCR SILTARA (RAIPUR)_ Hourly.xlsb,Siltara,Hourly,clean_failed,clean_file_none,True,,,,,,,,
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\SILTARA DCR\sampale DCR file\DCR SILTARA (RAIPUR)_ Hourly.xlsb,Siltara,Hourly,clean_failed,clean_file_none,True,,,,,,,,
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\CELIBRASION RIPORT\calibrasion riport 3.xlsx,IGKV,Hourly,no_header,header_not_found,False,,,,,,,,
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\DCR\APREL 2025- Hourly - IGKV.xlsx,IGKV,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\DCR\DECEMBER 2024 - Hourly - IGKV.xlsx,IGKV,Hourly,ok,,True,24.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\DCR\JULAY 2025 - Hourly - IGKV.xlsx,IGKV,Hourly,ok,,True,23.0,12.0,11.0,11.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\DCR\JUN 2025- Hourly - IGKV.xlsx,IGKV,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\DCR\MAEY 2025 - Hourly - IGKV.xlsx,IGKV,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\DCR\NOVEMBER 2024 - Hourly - IGKV.xlsx,IGKV,Hourly,ok,,True,24.0,12.0,5.0,5.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\MONTH YEAR (SAMPLE DCR)\MONTH YEAR - Hourly - IGKV.xlsx,IGKV,Hourly,clean_failed,clean_file_none,True,,,,,,,,
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\MONTH YEAR (SAMPLE DCR)\MONTH YEAR - Quat. Hourly - IGKV.xlsx,IGKV,Quarterly,clean_failed,clean_file_none,True,,,,,,,,
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2023\APRIL 2023\APRIL 2023 - Hourly - IGKV.xlsx,IGKV,Hourly,ok,,True,23.0,12.0,8.0,6.0,0.0,0.0,0.0,2.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2023\APRIL 2023\APRIL 2023 - Quat. Hourly - IGKV.xlsx,IGKV,Quarterly,ok,,True,95.0,12.0,33.0,22.0,0.0,0.0,0.0,2.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2023\AUGUST 2023\AUGUST 2023 - Quat. Hourly - IGKV.xlsx,IGKV,Quarterly,ok,,True,95.0,12.0,95.0,95.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2023\AUGUST 2023\AUGUST 2023- Hourly - IGKV.xlsx,IGKV,Hourly,ok,,True,23.0,12.0,23.0,23.0,0.0,0.0,0.0,2.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2023\DECEMBER 2023\DECEMBER 2023 - Hourly - IGKV.xlsx,IGKV,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2023\DECEMBER 2023\DECEMBER 2023 - Quat. Hourly - IGKV.xlsx,IGKV,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2023\JULY 2023\JULY 2023 - Hourly - IGKV.xlsx,IGKV,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,2.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2023\JULY 2023\JULY 2023 - Quat. Hourly - IGKV.xlsx,IGKV,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2023\JUNE 2023\JUNE 2023 - Hourly - IGKV.xlsx,IGKV,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,1.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2023\JUNE 2023\JUNE 2023 - Quat. Hourly - IGKV.xlsx,IGKV,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,2.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2023\MAY 2023\MAY 2023 - Hourly - IGKV.xlsx,IGKV,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,2.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2023\MAY 2023\MAY 2023 - Quat. Hourly - IGKV.xlsx,IGKV,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,2.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2023\NOVEMBER 2023\NOVEMBER 2023  - Hourly - IGKV.xlsx,IGKV,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2023\NOVEMBER 2023\NOVEMBER 2023 - Quat. Hourly - IGKV.xlsx,IGKV,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2023\OCTOBER 2023\OCTOBER 2023 - Hourly - IGKV.xlsx,IGKV,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2023\OCTOBER 2023\OCTOBER 2023 - Quat. Hourly - IGKV.xlsx,IGKV,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2023\SEPTEMBER 2023\SEPTEMBER 2023 - Hourly - IGKV.xlsx,IGKV,Hourly,ok,,True,24.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2023\SEPTEMBER 2023\SEPTEMBER 2023 - Quat. Hourly - IGKV.xlsx,IGKV,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2024\APRIL 2024\APRIL 2024 - Hourly - IGKV.xlsx,IGKV,Hourly,ok,,True,24.0,12.0,15.0,15.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2024\APRIL 2024\APRIL 2024 - Quat. Hourly - IGKV.xlsx,IGKV,Quarterly,ok,,True,96.0,12.0,63.0,63.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2024\AUGUST 2024\AUGUST 2024 - Hourly - IGKV.xlsx,IGKV,Hourly,ok,,True,24.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2024\AUGUST 2024\AUGUST 2024 - Quat. Hourly - IGKV.xlsx,IGKV,Quarterly,ok,,True,96.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2024\DECEMBER 2024\DECEMBER 2024 - Hourly - IGKV.xlsx,IGKV,Hourly,ok,,True,24.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2024\DECEMBER 2024\DECEMBER 2024 - Quat. Hourly - IGKV.xlsx,IGKV,Quarterly,ok,,True,96.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2024\FEBRUARY 2024\FEBRUARY 2024 - Hourly - IGKV.xlsx,IGKV,Hourly,ok,,True,24.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2024\FEBRUARY 2024\FEBRUARY 2024 - Quat. Hourly - IGKV.xlsx,IGKV,Quarterly,ok,,True,96.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2024\JANUARY 2024\JANUARY 2024 - Hourly - IGKV.xlsx,IGKV,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2024\JANUARY 2024\JANUARY 2024 - Quat. Hourly - IGKV.xlsx,IGKV,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2024\JULY 2024\JULY 2024 - Hourly - IGKV.xlsx,IGKV,Hourly,ok,,True,24.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2024\JULY 2024\JULY 2024 - Quat. Hourly - IGKV.xlsx,IGKV,Quarterly,ok,,True,96.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2024\JUNE 2024\JUNE 2024 - Hourly - IGKV.xlsx,IGKV,Hourly,ok,,True,24.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2024\JUNE 2024\JUNE 2024 - Quat. Hourly - IGKV.xlsx,IGKV,Quarterly,ok,,True,96.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2024\MARCH 2024\MARCH 2024 - Hourly - IGKV.xlsx,IGKV,Hourly,ok,,True,24.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2024\MARCH 2024\MARCH 2024 - Quat. Hourly - IGKV.xlsx,IGKV,Quarterly,ok,,True,96.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2024\MAY 2024\MAY 2024 - Hourly - IGKV.xlsx,IGKV,Hourly,ok,,True,24.0,12.0,24.0,24.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2024\MAY 2024\MAY 2024 - Quat. Hourly - IGKV.xlsx,IGKV,Quarterly,ok,,True,96.0,12.0,96.0,96.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2024\NOVEMBER 2024\NOVEMBER 2024 - Hourly - IGKV.xlsx,IGKV,Hourly,ok,,True,24.0,12.0,5.0,5.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2024\NOVEMBER 2024\NOVEMBER 2024 - Quat. Hourly - IGKV.xlsx,IGKV,Quarterly,ok,,True,96.0,12.0,24.0,21.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2024\OCTOBER 2024\OCTOBER 2024 - Hourly - IGKV.xlsx,IGKV,Hourly,ok,,True,24.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2024\OCTOBER 2024\OCTOBER 2024 - Quat. Hourly - IGKV.xlsx,IGKV,Quarterly,ok,,True,96.0,12.0,18.0,4.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2024\SEPTEMBER 2024\SEPTEMBER 2024 - Hourly - IGKV.xlsx,IGKV,Hourly,ok,,True,24.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2024\SEPTEMBER 2024\SEPTEMBER 2024 - Quat. Hourly - IGKV.xlsx,IGKV,Quarterly,ok,,True,96.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2025\aprl 2025\MONTH YEAR - Hourly - IGKV.xlsx,IGKV,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2025\aprl 2025\MONTH YEAR - Quat. Hourly - IGKV.xlsx,IGKV,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2025\aug 2025\MONTH YEAR - Hourly - IGKV.xlsx,IGKV,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2025\aug 2025\MONTH YEAR - Quat. Hourly - IGKV.xlsx,IGKV,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2025\Dec - 2025\MONTH YEAR - Hourly - IGKV.xlsx,IGKV,Hourly,ok,,True,23.0,12.0,4.0,2.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2025\Dec - 2025\MONTH YEAR - Quat. Hourly - IGKV.xlsx,IGKV,Quarterly,ok,,True,95.0,12.0,8.0,4.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2025\fub 2025\MONTH YEAR - Hourly - IGKV.xlsx,IGKV,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2025\fub 2025\MONTH YEAR - Quat. Hourly - IGKV.xlsx,IGKV,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2025\jan 2025\MONTH YEAR - Hourly - IGKV.xlsx,IGKV,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2025\jan 2025\MONTH YEAR - Quat. Hourly - IGKV.xlsx,IGKV,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2025\july 2025\MONTH YEAR - Hourly - IGKV.xlsx,IGKV,Hourly,ok,,True,23.0,12.0,11.0,11.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2025\july 2025\MONTH YEAR - Quat. Hourly - IGKV.xlsx,IGKV,Quarterly,ok,,True,95.0,12.0,53.0,49.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2025\jun 2025\MONTH YEAR - Hourly - IGKV.xlsx,IGKV,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2025\jun 2025\MONTH YEAR - Quat. Hourly - IGKV.xlsx,IGKV,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2025\mar 2025\MONTH YEAR - Hourly - IGKV.xlsx,IGKV,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2025\mar 2025\MONTH YEAR - Quat. Hourly - IGKV.xlsx,IGKV,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2025\may 2025\MONTH YEAR - Hourly - IGKV.xlsx,IGKV,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2025\may 2025\MONTH YEAR - Quat. Hourly - IGKV.xlsx,IGKV,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,3.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2025\nov 2025\MONTH YEAR - Hourly - IGKV.xlsx,IGKV,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2025\nov 2025\MONTH YEAR - Quat. Hourly - IGKV.xlsx,IGKV,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2025\Oct. 2025\Oct. Hourly - IGKV.xlsx,IGKV,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2025\Oct. 2025\Oct.- Quat. Hourly - IGKV.xlsx,IGKV,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2025\SEP. 2025\SEP. Hourly  2025.xlsx,IGKV,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2025\SEP. 2025\SEP. Quat. Hourly 2025.xlsx,IGKV,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2026\Feb-2026\MONTH YEAR - Hourly - IGKV.xlsx,IGKV,Hourly,clean_failed,clean_file_none,True,,,,,,,,
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2026\Feb-2026\MONTH YEAR - Quat. Hourly - IGKV.xlsx,IGKV,Quarterly,clean_failed,clean_file_none,True,,,,,,,,
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2026\jan-2026\MONTH YEAR - Hourly - IGKV.xlsx,IGKV,Hourly,clean_failed,clean_file_none,True,,,,,,,,
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2026\jan-2026\MONTH YEAR - Quat. Hourly - IGKV.xlsx,IGKV,Quarterly,clean_failed,clean_file_none,True,,,,,,,,
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2022\August 2022\August 2022 - Hourly - IGKV.xlsb,IGKV,Hourly,ok,,True,23.0,12.0,11.0,11.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2022\August 2022\August 2022 - Quat. Hourly - IGKV.xlsb,IGKV,Quarterly,ok,,True,95.0,12.0,1.0,1.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2022\December 2022\December 2022 - Hourly - IGKV.xlsb,IGKV,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2022\December 2022\December 2022 - Quat. Hourly - IGKV.xlsb,IGKV,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2022\July 2022\July 2022 - Hourly - IGKV.xlsb,IGKV,Hourly,ok,,True,23.0,12.0,2.0,2.0,0.0,0.0,0.0,1.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2022\July 2022\July 2022 - Quat. Hourly - IGKV.xlsb,IGKV,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2022\June 2022\June 2022 - Hourly - IGKV.xlsb,IGKV,Hourly,ok,,True,24.0,12.0,0.0,0.0,0.0,0.0,0.0,1.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2022\June 2022\June 2022 - Quat. Hourly - IGKV.xlsb,IGKV,Quarterly,ok,,True,95.0,12.0,6.0,3.0,0.0,0.0,0.0,1.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2022\November 2022\November 2022 - Hourly - IGKV.xlsb,IGKV,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2022\November 2022\November 2022 - Quat. Hourly - IGKV.xlsb,IGKV,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2022\October 2022\October 2022 - Hourly - IGKV.xlsb,IGKV,Hourly,ok,,True,23.0,12.0,184.0,23.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2022\October 2022\October 2022 - Quat. Hourly - IGKV.xlsb,IGKV,Quarterly,ok,,True,95.0,12.0,760.0,95.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2022\September 2022\September 2022 - Hourly - IGKV.xlsb,IGKV,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2022\September 2022\September 2022 - Quat. Hourly - IGKV.xlsb,IGKV,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2023\FEBRUARY 2023\FEBRUARY 2023 - Quat. Hourly - IGKV.xlsb,IGKV,Quarterly,ok,,True,94.0,12.0,14.0,7.0,0.0,0.0,0.0,1.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2023\FEBRUARY 2023\FEBRUARY 2023- Hourly - IGKV.xlsb,IGKV,Hourly,ok,,True,23.0,12.0,2.0,1.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2023\JANUARY 2023\JANUARY 2023 - Hourly - IGKV.xlsb,IGKV,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2023\JANUARY 2023\JANUARY 2023 - Quat. Hourly - IGKV.xlsb,IGKV,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2023\MARCH 2023\MARCH 2023 - Hourly - IGKV.xlsb,IGKV,Hourly,ok,,True,22.0,12.0,9.0,9.0,0.0,0.0,0.0,1.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\IGKV DCR\Year 2023\MARCH 2023\MARCH 2023 - Quat. Hourly - IGKV.xlsb,IGKV,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2024\Jan 2024\DCR Bhatagaon QUAT 2024.xls,Bhatagaon,Quarterly,read_error,"Expected ""little-endian"" marker, found b'\x00\x00'",False,,,,,,,,
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2022\AUGUST  2022\BHATAGAON  QUAT - hourly august 2022.xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,105.0,95.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2022\AUGUST  2022\DCR of bhatagaon_ Hourly - August-2022 - Copy.xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,23.0,23.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2022\DEC 2022\DCR BHATAGAON (RAIPUR)_ Hourly DEC..-2022.xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2022\DEC 2022\DCR Bhatagaon _ QUAT -DEC.-2022 - Copy.xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2022\july 2022\DCR of bhatagaon QUAT hourly till date on 31st July-2022 (1).xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,95.0,95.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2022\JUNE 2022\DCR BHATAGAON (RAIPUR) _ Quarter Hourly -  till date on 29th june 2022.xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,63.0,56.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2022\JUNE 2022\DCR BHATAGAON (RAIPUR)_ Hourly 29th June-2022 (1).xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,15.0,14.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2022\NOV 2022\DCR Bhatagaon_RAIPUR _ QUAT - NOV-2022.xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2022\NOV 2022\DCR Bhatagaon_RAIPUR_ Hourly - NOV-2022.xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2022\oct 2022\DCR of bhatagaon_ Hourly - OCTO-2022.xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,2.0,2.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2022\SEP 2022\DCR Bhatagaon _ QUAT -sep-2022 - Copy.xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,25.0,13.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2023\Apr 2023\DCR BHATAGAON (RAIPUR)_ Hourly April.-2023.xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2023\Apr 2023\DCR Bhatagaon _ QUAT April-2023.xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,16.0,2.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2023\August 2023\DCR BHATAGAON (RAIPUR)_ HourlY.-2023.xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2023\August 2023\DCR Bhatagaon _ QUAT -2023 - Copy.xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,6.0,6.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2023\DEC 2023\DCR BHATAGAON (RAIPUR)_ HourlY.-2023 (1).xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2023\DEC 2023\DCR Bhatagaon _ QUAT -2023 - Copy.xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,60.0,30.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2023\Feb 2023\DCR BHATAGAON (RAIPUR)_ Hourly Feb.-2023.xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2023\Feb 2023\DCR BHATAGAON (RAIPUR)_ HourlY.-2023.xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2023\Feb 2023\DCR Bhatagaon _ QUAT -Feb.-2023 -.xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,6.0,3.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2023\Jan.2023\DCR BHATAGAON (RAIPUR)_ Hourly  Jan. 2023.xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2023\Jan.2023\DCR Bhatagaon _ QUAT - Jan. 2023.xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2023\JULY   2023\DCR BHATAGAON (RAIPUR)_ HourlY.-2023 (3).xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,46.0,23.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2023\JULY   2023\DCR Bhatagaon _ QUAT -2023 - Copy.xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,190.0,95.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2023\june 2023\DCR BHATAGAON (RAIPUR)_ HourlY.-2023 (4).xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2023\june 2023\DCR Bhatagaon _ QUAT -2023 - Copy.xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2023\March 2023\DCR BHATAGAON (RAIPUR)_ Hourly March.-2023.xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2023\March 2023\DCR Bhatagaon _ QUAT -March-2023.xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2023\MAY 2023\DCR BHATAGAON (RAIPUR)_ HourlY.-2023 (2).xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,26.0,13.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2023\MAY 2023\DCR Bhatagaon _ QUAT -2023 - Copy.xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,86.0,43.0,1.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2023\NOV 2023\DCR BHATAGAON (RAIPUR)_ HourlY.-2023 (5).xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2023\NOV 2023\DCR Bhatagaon _ QUAT -2023 - Copy.xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2023\OCT 2023\DCR BHATAGAON (RAIPUR)_ HourlY.-2023 (6).xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2023\OCT 2023\DCR Bhatagaon _ QUAT -2023 - Copy.xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2023\SEP 2023\DCR BHATAGAON (RAIPUR)_ HourlY.-2023 (7).xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2023\SEP 2023\DCR Bhatagaon _ QUAT -2023 - Copy.xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2024\APRIL 2024\DCR Bhatagaon _ HOURLY -2024.xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,3.0,1.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2024\APRIL 2024\DCR Bhatagaon _ QUAT -2024.xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,14.0,4.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2024\AUGUST 2024\DCR BHATAGAON (RAIPUR)_ Hourly AUGUST.-2024.xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,184.0,23.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2024\AUGUST 2024\DCR Bhatagaon _ QUAT -august 2024.xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,760.0,95.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2024\DCR 2024\DCR BHATAGAON (RAIPUR)_ Hourly NOV-2024.xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,69.0,23.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2024\DCR 2024\DCR BHATAGAON _ QUAT -2024.xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,285.0,95.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2024\Feb 2024\DCR BHATAGAON (RAIPUR)_ HourlY.-2024.xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2024\Feb 2024\DCR Bhatagaon _ QUAT -2024 - Copy.xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,4.0,4.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2024\Jan 2024\DCR BHATAGAON (RAIPUR)_ HourlY.-2024.xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2024\JULY 2024\DCR Bhatagaon (RAIPUR)_ Hourly JULY.-2024.xlsx,Bhatagaon,Hourly,ok,,True,1.0,12.0,8.0,1.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2024\JULY 2024\DCR BHATAGAON _ QUAT -JULY 2024.xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2024\JUNE 2024\DCR BHATAGAON (RAIPUR)_ HourlY.-2023.xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2024\JUNE 2024\DCR Bhatagaon _ QUAT -2024.xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2024\MARCH 2024\DCR BHATAGAON (RAIPUR)_ HourlY 2024.xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2024\MARCH 2024\DCR Bhatagaon _ QUAT -2024.xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2024\MAY 2024\DCR BHATAGAON (RAIPUR)_ HourlY.-2024.xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,4.0,4.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2024\MAY 2024\DCR Bhatagaon _ QUAT -2024.xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,72.0,36.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2024\NOV 2024\DCR BHATAGAON (RAIPUR)_ Hourly -2024.xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,12.0,6.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2024\NOV 2024\DCR BHATAGAON _ QUAT -2024.xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,18.0,9.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2024\OCT 2024\DCR BHATAGAON (RAIPUR)_ Hourly -2024.xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2024\OCT 2024\DCR BHATAGAON _ QUAT -2024.xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,0.0,0.0,4.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2024\SEPT 2024\DCR BHATAGAON (RAIPUR)_ Hourly -2024.xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2024\SEPT 2024\DCR BHATAGAON _ QUAT -2024.xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2025\APRIL 2025\DCR BHATAGAON (RAIPUR)_ Hourly  APR-2025.xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,75.0,23.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2025\APRIL 2025\DCR BHATAGAON _ QUAT -2025.xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,316.0,95.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2025\AUG -25\DCR BHATAGAON (RAIPUR)_ Hourly AUG -2025.xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,11.0,5.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2025\AUG -25\DCR BHATAGAON _ QUAT - AUG-2025.xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,35.0,20.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2025\Dec. 2025\Hourly -2025 (1).xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2025\Dec. 2025\Quat. -2025 (2).xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2025\FAB 2025\DCR BHATAGAON (RAIPUR)_ Hourly FEB-2025.xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2025\FAB 2025\DCR BHATAGAON _ QUAT -2025.xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2025\JAN 2025\DCR BHATAGAON (RAIPUR)_ Hourly JAN-2024.xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,96.0,12.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2025\JAN 2025\DCR BHATAGAON _ QUAT -2024.xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,408.0,51.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2025\JULY 2025\DCR BHATAGAON  Hourly -2025.xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2025\JULY 2025\DCR BHATAGAON (RAIPUR)_ Hourly -2025.xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2025\JULY 2025\DCR BHATAGAON _ QUAT -2025.xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2025\JUN 2025\DCR BHATAGAON _ HOU.2025.xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2025\JUN 2025\DCR BHATAGAON _ QUAT -H 2025.xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2025\MARCH 2025\DCR BHATAGAON (RAIPUR)_ Hourly MAR -2025.xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2025\MARCH 2025\DCR BHATAGAON _ QUAT -2025.xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2025\MAY 2025\DCR BHATAGAON (RAIPUR)_ Hourly -2025.xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,29.0,4.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2025\MAY 2025\DCR BHATAGAON _ QUAT -2025.xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,142.0,19.0,0.0,3.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2025\NOV. 2025\NOV. Hourly -2025.xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2025\NOV. 2025\NOV. QUAT -2025.xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2025\Oct. 2025\Oct.  QUAT -2025.xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2025\Oct. 2025\Oct._ Hourly -2025.xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2025\Sep. 2025\DCR BHATAGAON (RAIPUR)_ Hourly -2024.xlsx,Bhatagaon,Hourly,ok,,True,23.0,12.0,4.0,3.0,0.0,1.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2025\Sep. 2025\DCR BHATAGAON _ QUAT -2024.xlsx,Bhatagaon,Quarterly,ok,,True,95.0,12.0,32.0,25.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2026\january 2026\JAN. Hourly -2025.xlsx,Bhatagaon,Hourly,clean_failed,clean_file_none,True,,,,,,,,
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2026\january 2026\JAN. QUAT -2025.xlsx,Bhatagaon,Quarterly,clean_failed,clean_file_none,True,,,,,,,,
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2022\july 2022\DCR of bhatagaon QUAT hourly till date on 31st July-2022 (1).xlsb,Bhatagaon,Quarterly,ok,,True,95.0,12.0,95.0,95.0,0.0,0.0,0.0,0.0
+c:\Users\annam\OneDrive\Desktop\ML_Project\Datasets\Bhatagaon DCR\DCR bhatagaon\DCR 2022\SEP 2022\DCR of bhatagaon_ Hourly - sep.-2022.xlsb,Bhatagaon,Hourly,ok,,True,23.0,12.0,0.0,0.0,0.0,1.0,0.0,0.0

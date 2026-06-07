@@ -1,0 +1,9 @@
+Location,Frequency,Rows,MissingRateAfterPct,PM25Present
+AIIMS,Quarterly,3990,3.869,True
+AIIMS,Hourly,990,4.583,True
+Siltara,Quarterly,3040,4.778,True
+Siltara,Hourly,1709,4.864,True
+IGKV,Hourly,1001,2.897,True
+IGKV,Quarterly,4095,3.297,True
+Bhatagaon,Quarterly,3895,8.042,True
+Bhatagaon,Hourly,944,6.131,True

@@ -1,0 +1,5 @@
+   Region Frequency  Rows_Before_Preprocessing  Rows_After_Preprocessing  Rows_Change
+    AIIMS Quarterly                       5130                      3990        -1140
+Bhatagaon Quarterly                       3990                      3895          -95
+     IGKV Quarterly                       4095                      4095            0
+  Siltara Quarterly                       5605                      3040        -2565
